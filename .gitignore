@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+venv/
+All_Permissions.json
+All_Permission_Role.json
+Admin_Role_Permission.json
+All_Updated_Role_Permission_list.coffee
+All_Updated_Role_Permission_list.json
+poultry_farm.7z
